@@ -1,0 +1,8 @@
+czerwony : #db5450
+jasny niebieski: #60b4e0
+ciemny niebieski: #035c86
+
+tlo: 
+flex items-center justify-between w-full px-8
+
+// bg-[url('../public/assets/bg-test.jpg')]
